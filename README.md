@@ -3,8 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a full stack data scientist
-
+PhD Researcher | Islamic Studies & AI Ethics | Data Analyst | Founder - Fatih Developers and  Al Fatih AI Tools
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
